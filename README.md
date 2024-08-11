@@ -18,4 +18,4 @@ This is a responsive web page for "Udemig Academy," a mock online learning platf
 
 # 🏜️Preview:
 
-![](./UdemigEducation.gif)# Udemig-Academy
+![](./UdemigEducation.gif)
